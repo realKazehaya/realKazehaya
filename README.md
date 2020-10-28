@@ -1,5 +1,3 @@
-<center><h3>Hi I'm realKazehaya 👋</h3></center>
-
 <p align="center" width="100%">
   <a href="https://twitter.com/realKazehaya">
   <img src="https://img.shields.io/twitter/follow/realKazehaya?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
