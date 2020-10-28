@@ -2,12 +2,10 @@
 
 <p align="center" width="100%">
   <a href="https://twitter.com/realKazehaya">
-  <img src="https://img.shields.io/twitter/follow/realKazehaya?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
+  <img align="right" src="https://img.shields.io/twitter/follow/realKazehaya?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
   </a>
   <a href="https://github.com/realKazehaya">
-  <img src="https://img.shields.io/github/followers/realKazehaya?style=flat-square&label=Github%20Followers" alt="GitHub followers"/>
+  <img align="right" src="https://img.shields.io/github/followers/realKazehaya?style=flat-square&label=Github%20Followers" alt="GitHub followers"/>
    </a>
 
-  <link rel="stylesheet" href="https://gist.githubusercontent.com/bertobox/3503850/raw/114c99e855c77b67e5af4d8706bad2e007378ba1/list-styles-for-markdown.css"></link>
-
-<center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKazehaya&layout=compact&theme=react&langs_count=4" width="400"/></center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKazehaya&layout=compact&theme=react&langs_count=4" width="400"/>
