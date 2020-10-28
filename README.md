@@ -1,4 +1,4 @@
-<center>## Hi I'm realKazehaya 👋</center>
+<center><h3>Hi I'm realKazehaya 👋</h3></center>
 
 <p align="center" width="100%">
   <a href="https://twitter.com/realKazehaya">
