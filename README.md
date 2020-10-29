@@ -10,5 +10,5 @@
 
 <p align="center">
   Visitor count from 27/09/2020<br>
-  <img src="https://profile-counter.glitch.me/Blopaa/count.svg" />
+  <img src="https://profile-counter.glitch.me/realKazehaya/count.svg" />
 </p>
