@@ -7,3 +7,8 @@
    </a><br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKazehaya&layout=compact&theme=react&langs_count=4" width="400"/>
+
+<p align="center">
+  Visitor count from 27/09/2020<br>
+  <img src="https://profile-counter.glitch.me/Blopaa/count.svg" />
+</p>
