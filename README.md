@@ -1,7 +1,4 @@
 <p align="center" width="100%">
-  <a href="https://twitter.com/AnimusTD">
-  <img src="https://img.shields.io/twitter/follow/realKazehaya?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
-  </a>
   <a href="https://github.com/realKazehaya">
   <img src="https://img.shields.io/github/followers/realKazehaya?style=flat-square&label=Github%20Followers" alt="GitHub followers"/>
    </a><br />
